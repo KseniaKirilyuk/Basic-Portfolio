@@ -106,6 +106,7 @@ section article {
 	float:right; 
 	width:50%;
     text-align: justify;
+    line-height: 1.4;
 }
 
 footer {
